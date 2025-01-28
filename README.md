@@ -31,8 +31,8 @@ The timer operates in a free-running mode with an 8x prescaler.
 
 ## Compilation and Flashing
 1. **Compile the code**:
-   make
+   'make'
 2. **Flash the Code**:
-   make flash
+   'make flash'
 3. **Clean the Directory**:
-   make clean
+   'make clean'
